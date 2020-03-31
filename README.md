@@ -1,1 +1,0 @@
-# https://AuroraFPSAPI.github.io
